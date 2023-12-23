@@ -53,3 +53,8 @@ body{
     border: none;
     border-radius: 5px;
 }
+
+#btnSubmit:hover{
+    color: white;
+    background-color: darkgrey;
+} 
