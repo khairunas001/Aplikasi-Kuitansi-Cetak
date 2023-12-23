@@ -57,4 +57,30 @@ body{
 #btnSubmit:hover{
     color: white;
     background-color: darkgrey;
-} 
+}
+
+.cart-box{
+    width: 100%;
+}
+
+.cart-header{
+    text-align: center;
+    margin: 8px;
+}
+
+.cart-heading{
+    text-align: center;
+}
+
+.cart-table{
+    width: 100%;
+}
+
+.cart-table table{
+    width: 100%;
+}
+
+th,td{
+    padding: 8px;
+    text-align: center;
+}
